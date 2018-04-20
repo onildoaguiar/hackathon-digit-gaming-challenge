@@ -1,4 +1,4 @@
-# VanhackathonDigitGamingChallenge
+# About
 Oh no, the magic sword of power has been lost (again)! Time to retrieve it (again)! This time, why not spend some time creating an AI that can retrieve it for you? Then you won’t have to spend so much time running and jumping all over the place.    
 
 Create a simple platformer game, with the following elements:    
